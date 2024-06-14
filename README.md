@@ -1,0 +1,2 @@
+# Emotiscope-Parts
+OSHW
